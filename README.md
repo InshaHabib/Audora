@@ -127,5 +127,5 @@ npm run build
 
 ---
 
-**Built using React and Tailwind CSS for a modern, responsive, and animated UI**
+<p align="center">**Built using React and Tailwind CSS for a modern, responsive, and animated UI**</p>
 
