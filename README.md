@@ -3,9 +3,9 @@
 ![Audora Logo](https://img.shields.io/badge/Audora-Revolutionary%20AR%20Glasses-00f0ff?style=for-the-badge)
 
 A modern, fully responsive React website for **Audora** Smart Glasses - Revolutionary AR glasses that transform speech into real-time subtitles, empowering the hearing-impaired community.
-<!-- 
-## Live Demo -->
 
+## Live Demo
+https://audora-web.netlify.app
 
 ## 🚀 Features
 
