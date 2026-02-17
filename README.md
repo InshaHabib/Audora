@@ -103,7 +103,6 @@ audora/
 
 For questions or support:
 - Email: inshahabib939@gmail.com
-- Location: Rawalpindi, Pakistan
 
 ## 🚀 Deployment
 
