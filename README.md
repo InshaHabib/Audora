@@ -102,8 +102,8 @@ audora/
 ## 📧 Contact
 
 For questions or support:
-- Email: info@Audora.com
-- Phone: +92 300 1234567
+- Email: inshahabib939@gmail.com
+- Phone: +92 307 1278881
 - Location: Rawalpindi, Pakistan
 
 ## 🚀 Deployment
