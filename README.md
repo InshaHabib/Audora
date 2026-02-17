@@ -103,7 +103,6 @@ audora/
 
 For questions or support:
 - Email: inshahabib939@gmail.com
-- Phone: +92 307 1278881
 - Location: Rawalpindi, Pakistan
 
 ## 🚀 Deployment
